@@ -31,4 +31,6 @@ venue
 date
 time
 
+## vidazini beach image
+![beach_image](https://cdn.pixabay.com/photo/2016/11/14/22/18/beach-1824855__340.jpg)
 
