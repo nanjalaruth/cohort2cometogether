@@ -21,7 +21,7 @@ venue
 time 
 date
 
-![swimming pool](http://us.zooverresources.com/images/E167423L1B1696779D0W900H675/Makuti-Villas-Resort.jpg)
+![swimming pool](https://cdn-travel.jumia.com/web_hotel_detail_gallery/makuti-villas-resort-kilifi-31188-85e8cdd06aba8483745932d2ff02999aae99a84e.jpeg)
 
 ## bonfire
 venue: vidazini beach
