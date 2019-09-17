@@ -21,6 +21,8 @@ venue
 time 
 date
 
+![swimming pool](http://us.zooverresources.com/images/E167423L1B1696779D0W900H675/Makuti-Villas-Resort.jpg)
+
 ## bonfire
 venue: vidazini beach
 time : 10:00pm
