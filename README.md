@@ -11,6 +11,7 @@ date - 27th september
 venue - vidazini beach
 time - 10:00pm
 date - 27th september
+![vidazini](https://cdn.pixabay.com/photo/2013/02/21/19/06/beach-84533__340.jpg)
 
 ## hangout corner
 venue - 
