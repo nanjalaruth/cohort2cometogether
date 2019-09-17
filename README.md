@@ -6,12 +6,17 @@ venue - Pelican pub
 time - 8:00pm
 date - 27th september
 
-### bonfire
+## bonfire
 venue - vidazini beach
 time - 10:00pm
 date - 27th september
 
-#### hangout corner
+## hangout corner
 venue - 
 time - 8:00am
 date - 26th september
+
+## swimming
+venue
+time 
+date
