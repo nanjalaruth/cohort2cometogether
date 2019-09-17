@@ -6,6 +6,9 @@ venue - Pelican pub
 time - 8:00pm
 date - 27th september
 
+## image_choma
+![choma](http://www.kaluhiskitchen.com/wp-content/uploads/2015/06/Nyama-choma-is-a-meal-that-never-misses-in-Kenyan-feasts.-Make-this-even-more-savory-with-cayenne-and-caramelized-onion_Kenyan-Food.jpg)
+
 ## bonfire
 venue - vidazini beach
 time - 10:00pm
