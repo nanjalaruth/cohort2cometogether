@@ -36,4 +36,8 @@ venue -
 date - 28th september
 time - 8:00am
 
+## hiking
+venue -
+time -
+date -
 
