@@ -36,4 +36,9 @@ venue -
 date - 28th september
 time - 8:00am
 
+## skating and boat riding
+venue
+date
+time
+
 
